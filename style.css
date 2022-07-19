@@ -1,0 +1,36 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    border: 1px solid;
+    display: flex;
+    width: 350px;
+    margin: auto;
+    align-items: center;
+    min-height: 500pt;
+    flex-direction: column;
+}
+h1{
+    margin-top: 80%;
+    color:black;
+}
+button{
+    background: rgb(77, 74, 74);
+    color: white;
+    border-radius: 20px;
+    min-width: 150px;
+    height: 45px;
+    font-size: 20px;
+}
+footer{
+    border: 1px solid;
+}
+.dark-mode{
+    background: black;
+}
+.ligth-mode{
+    background: rgb(77, 74, 74);
+}
+.branco{
+    color: white;
+}
